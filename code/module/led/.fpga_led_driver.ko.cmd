@@ -1,0 +1,1 @@
+cmd_/root/joo/final/led/fpga_led_driver.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx6q/kernel/scripts/module-common.lds --build-id  -o /root/joo/final/led/fpga_led_driver.ko /root/joo/final/led/fpga_led_driver.o /root/joo/final/led/fpga_led_driver.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/joo1/pwm/up_down_pwm.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx6q/kernel/scripts/module-common.lds --build-id  -o /root/joo1/pwm/up_down_pwm.ko /root/joo1/pwm/up_down_pwm.o /root/joo1/pwm/up_down_pwm.mod.o

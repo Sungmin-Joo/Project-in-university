@@ -1,0 +1,1 @@
+cmd_/root/joo1/dot/fpga_dot_driver_arrow.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx6q/kernel/scripts/module-common.lds --build-id  -o /root/joo1/dot/fpga_dot_driver_arrow.ko /root/joo1/dot/fpga_dot_driver_arrow.o /root/joo1/dot/fpga_dot_driver_arrow.mod.o

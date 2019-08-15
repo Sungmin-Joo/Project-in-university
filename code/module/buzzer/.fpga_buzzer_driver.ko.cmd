@@ -1,0 +1,1 @@
+cmd_/root/joo/buzzer/fpga_buzzer_driver.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx6q/kernel/scripts/module-common.lds --build-id  -o /root/joo/buzzer/fpga_buzzer_driver.ko /root/joo/buzzer/fpga_buzzer_driver.o /root/joo/buzzer/fpga_buzzer_driver.mod.o

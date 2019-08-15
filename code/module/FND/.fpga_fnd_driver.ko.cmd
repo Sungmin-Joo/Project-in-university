@@ -1,0 +1,1 @@
+cmd_/root/joo/FND/fpga_fnd_driver.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx6q/kernel/scripts/module-common.lds --build-id  -o /root/joo/FND/fpga_fnd_driver.ko /root/joo/FND/fpga_fnd_driver.o /root/joo/FND/fpga_fnd_driver.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/joo1/text_LCD/fpga_text_lcd_driver.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx6q/kernel/scripts/module-common.lds --build-id  -o /root/joo1/text_LCD/fpga_text_lcd_driver.ko /root/joo1/text_LCD/fpga_text_lcd_driver.o /root/joo1/text_LCD/fpga_text_lcd_driver.mod.o

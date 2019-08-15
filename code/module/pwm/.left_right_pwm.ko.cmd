@@ -1,0 +1,1 @@
+cmd_/root/joo1/pwm/left_right_pwm.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx6q/kernel/scripts/module-common.lds --build-id  -o /root/joo1/pwm/left_right_pwm.ko /root/joo1/pwm/left_right_pwm.o /root/joo1/pwm/left_right_pwm.mod.o

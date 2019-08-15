@@ -1,0 +1,1 @@
+cmd_/root/joo1/hs_04/hc-sr04_driver.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx6q/kernel/scripts/module-common.lds --build-id  -o /root/joo1/hs_04/hc-sr04_driver.ko /root/joo1/hs_04/hc-sr04_driver.o /root/joo1/hs_04/hc-sr04_driver.mod.o
