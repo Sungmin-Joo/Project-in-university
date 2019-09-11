@@ -1,0 +1,32 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+average                                                           0x0693      20
+Erase                                                             0x06A7      17
+bright_count                                                      0x06B8       2
+Bright_val                                                        0x06BA       2
+pre_Bright                                                        0x06BC       2
+Count                                                             0x06BE       2
+B_on                                                              0x06C0       2
+Mo_count                                                          0x06C2       2
+Mo_exit                                                           0x06C4       2
+Time                                                              0x06C6       6
+Mo_time_count                                                     0x06CC       2
+reservation_mode                                                  0x06CE       2
+wrong_flag                                                        0x06D0       2
+index                                                             0x06D2       2
+Treshold                                                          0x06D4       2
+no_interrupt_flag                                                 0x06D6       2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+Temp_sort                                                         R4,R5        2
+index_bri                                                         R6,R7        2
+i                                                                 R8,R9        2
+j                                                                 R10,R11      2
+Mode_flag                                                         R12,R13      2

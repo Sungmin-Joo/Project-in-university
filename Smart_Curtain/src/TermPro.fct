@@ -1,0 +1,8 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"term.c" LINE:623
+Timer_mode DSTACK_USAGE:28 DSTACK_LEVEL:28 FILE:"term.c" LINE:288
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:42 FILE:"..\..\..\..\lib\stdio.lib" LINE:1410
+_print DSTACK_USAGE:20 DSTACK_LEVEL:62 FILE:"..\..\..\..\lib\stdio.lib" LINE:503
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:64 FILE:"..\..\..\..\lib\string.lib" LINE:1707
+usart1_receive DSTACK_USAGE:13 DSTACK_LEVEL:77 FILE:"term.c" LINE:577
+puts_USART1 DSTACK_USAGE:2 DSTACK_LEVEL:79 FILE:"..\..\..\..\inc\Term.h" LINE:115
+putch_USART1 DSTACK_USAGE:1 DSTACK_LEVEL:80 FILE:"..\..\..\..\inc\Term.h" LINE:110
