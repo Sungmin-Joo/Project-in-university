@@ -32,14 +32,29 @@ My projects that I carried out at the university in C/C++/Matlab/NodeRED
   -  [link](https://github.com/Sungmin-Joo/Project-in-university/tree/master/Embedded_Radar_C)  - 발표자료, 데모영상, 코드  
   
   
-* ### Smart_Factory_Service_CPP+NodeRED+etc  
+* ### P2P_server_C  
 
-  -  ESP8266 보드와 IBM - Cloud Computing을 사용하여 Smart Factory Service를 구현  
-  -  NodeRED에서 Twitter 파싱을 통해 인근지역 재난상황에 대한 파싱 구현  
-  -  IFTTT 와 Adafruit MQTT를 연동하여 스마트폰으로 공장 제어 가능  
-  -  [link](https://github.com/Sungmin-Joo/Project-in-university/tree/master/Smart_Factory_Service_CPP%2BNodeRED%2Betc) - 발표자료, 데모영상, 코드   
+  -  Linux server에 원격으로 접속하여 P2P File Sharing Service 를 구현    
+  -  총 3단계로 이루어져있으며, 강의에서 주어진 단계 외에 아래의 추가기능을 구현  
+     * 회원가입 기능  
+     * Shemaphore를 programming 하여 상호 간 동시 다발적인 파일 공유 구현  
+     * 수시로 업로드 하는 파일을 갱신 가능    
+  -  [link](https://github.com/Sungmin-Joo/Project-in-university/tree/master/P2P_server_C) - 보고서, 코드     
   
- 
+
+* ### Smart_Curtain  
+  -  사용 보드 (MCU)  
+     * Atmega128 교육용 보드
+  -  사용 센서  
+     * 적외선 센서  
+     * 조이스틱 센서  
+     * 조도 센서  
+     * DC모터  
+  -  사용 통신 규격  
+     * Serial communication  
+  -  주변 밝기, 설정 시간에 따라 자동으로 작동하거나, 조이스틱 조작을 통해 수동으로 작동하는 커튼 구현  
+  -  [link](https://github.com/Sungmin-Joo/Project-in-university/tree/master/Smart_Curtain) - 보고서, 코드     
+
     
 * ### Embedded_Radar_C  
 
