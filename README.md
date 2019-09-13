@@ -2,7 +2,6 @@
 My projects that I carried out at the university in C/C++/Matlab/NodeRED
 
  대학교 수업에서 수행했던 프로젝트입니다.    
- 팀으로 진행했던 프로젝트 중 혼자 진행한 프로젝트는 조원의 이름을 삭제했습니다.  
   
 
   
