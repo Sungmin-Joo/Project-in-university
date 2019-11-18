@@ -115,10 +115,10 @@ int main( void)
 	*send_flag = 0;
 	*receive_flag = 0;
 	*logout = 0;
-	// 면접 때 지적받은 부분
-	// 데모 서버여서 while을 뺏는데...
-	// 코드를 조금 더 자세히 보고 갈걸
-	// 나중에 보드 쓸 수 있을때 수정하자! 이미 지나간 버스..
+	// a point at the interview
+	// It's a demo server, so I'm taking Whittle away.
+	// I'm gonna take a closer look at the code.
+	// Let's fix it later when i can use the board! The bus that has already passed...
 	pid = fork();
 	if(pid != 0)
 	{
